@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls -l
-=======
-ls -lan
->>>>>>> refs/remotes/origin/master
